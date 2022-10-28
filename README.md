@@ -1,6 +1,1 @@
-# shop-client--word
-
-## Project setup
-```
-npm install
-```
+# shop-client
